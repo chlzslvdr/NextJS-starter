@@ -1,4 +1,6 @@
 .git
 .next
 yarn.lock
+yarn-error.log
 node_modules
+.DS_Store

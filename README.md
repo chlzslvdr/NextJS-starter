@@ -17,3 +17,9 @@ To run the project locally, use the `run` command.
 ```bash
 npm run dev // yarn run dev
 ```
+
+### Production
+
+```bash
+npm build // yarn build
+```
