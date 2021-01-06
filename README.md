@@ -1,25 +1,19 @@
 # NextJS-Starter
 
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+This is a starter template for [Learn Next.js](https://nextjs.org/learn) with [Keycloak](https://github.com/keycloak/keycloak).
 
-## Installation
+## Setup
 
-Clone and run npm install to install the dependencies.
+1. Install dependencies using either of the commands:
 
-```bash
-npm install // yarn install
+```
+$ npm install / $ yarn install
 ```
 
-### Start locally
+2. Create `.env.local` file and paste the correct environment variables.
 
-To run the project locally, use the `run` command.
+3. Run development server using either of the commands:
 
-```bash
-npm run dev // yarn run dev
 ```
-
-### Production
-
-```bash
-npm build // yarn build
+$ npm run dev / $ yarn dev
 ```
