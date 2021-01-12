@@ -1,6 +1,6 @@
 # NextJS-Starter
 
-This is a starter template for [Learn Next.js](https://nextjs.org/learn) with [Keycloak](https://github.com/keycloak/keycloak).
+This is a starter template for [Next.js](https://nextjs.org/learn) with [Keycloak](https://github.com/keycloak/keycloak).
 
 ## Setup
 
